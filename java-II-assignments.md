@@ -43,8 +43,11 @@ Process finished with exit code 0
 
 ### Ex. 3 Invoice and Products
 Consider the following relationship: One invoice contains one to many products. An 
-invoice has an id, and a product has an id, name, and cost.  Given these facts, write a 
-Java program that contains an `Invoice` class and a `Product` class.  The `Invoice` class
+invoice has an id, and a product has an 
+id, name, and cost. 
+Given these facts, write a 
+Java program that contains an `Invoice` class and a `Product` class.  
+The `Invoice` class
 contains a private list of `Product` objects.  
 
 The Java program must contain the following code:

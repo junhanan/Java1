@@ -37,6 +37,7 @@ public class Set2Ex1 {
                 continue;
             }
             
+            // the parseInt converts it into a string niceeeee
             int personId = Integer.parseInt(data[0]);
             String firstName = data[1];
             String lastName = data[2];
